@@ -1,9 +1,9 @@
 # Frequency_Sound_Amplifier
-Amplifier circuit allowing you to use a set of headphones to listen to frequency tones using any wave generator.  
+Have you ever wondered what the mains 60Hz power sounds like?  
+I did. In fact, i wanted to listen to all the individual audible frequencies that humans can hear. So i designed an amplifier circuit that allows me to connect a wave generator and a pair of earbuds so i can listen to the different frequencies and also test my hearing. It turns out i cannot hear any frequencies higher than 14kHz.
   
 You can use the Gerber files to manufacture your own PCB, and use the BOM to purchase all the parts needed to build one.
-  
-Use a wave generator to hear how different frequency tone sound like, you can use it also to test you hearing and see which frequencies your ears cannot hear.  
+
 
 ![Schematic](https://user-images.githubusercontent.com/55294493/64898765-4aee6f80-d63d-11e9-8ca8-cbebc5352eb7.JPG)
 
